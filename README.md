@@ -1,5 +1,5 @@
 # TheFallender
-Sup. I'm a computer science engineer and work as a game developer. On this profile you may find.
+Sup. I'm a computer science engineer that works as a Backend AI Engineer and does game development on the side. On this profile you may find.
 - 💻 Personal Projects.
 - 🎮 Games developed.
 - 📋 University Projects.
